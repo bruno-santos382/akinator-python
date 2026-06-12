@@ -1,0 +1,71 @@
+nome,genero_filme,animacao,protagonista_humano,vilao_presente,final_feliz,ambientado_no_passado,baseado_em_historia_real,personagem_masculino,personagem_principal
+Simba,aventura,sim,nao,sim,sim,nao,nao,sim,sim
+Woody,aventura,sim,nao,sim,sim,nao,nao,sim,sim
+Elsa,fantasia,sim,nao,nao,sim,nao,nao,nao,sim
+Frodo Bolseiro,fantasia,nao,sim,sim,sim,sim,nao,sim,sim
+Harry Potter,fantasia,nao,sim,sim,sim,nao,nao,sim,sim
+Katniss Everdeen,acao,nao,sim,sim,nao,nao,nao,nao,sim
+Luke Skywalker,acao,nao,sim,sim,sim,nao,nao,sim,sim
+Jack Sparrow,aventura,nao,sim,sim,sim,sim,nao,sim,nao
+Hermione Granger,fantasia,nao,sim,sim,sim,nao,nao,nao,nao
+Moana,aventura,sim,nao,sim,sim,nao,nao,nao,sim
+Tyler Durden,thriller,nao,sim,nao,nao,nao,nao,sim,sim
+Indiana Jones,aventura,nao,sim,sim,sim,sim,nao,sim,sim
+Mulan,acao,sim,nao,sim,sim,sim,nao,nao,sim
+Andy Dufresne,drama,nao,sim,sim,sim,sim,nao,sim,sim
+Maximus,acao,nao,sim,sim,sim,sim,nao,sim,sim
+Scarlett O'Hara,drama,nao,sim,nao,nao,sim,nao,nao,sim
+Neo,acao,nao,sim,sim,nao,nao,nao,sim,sim
+Clarice Starling,thriller,nao,sim,sim,nao,nao,nao,nao,sim
+Forrest Gump,drama,nao,sim,nao,sim,nao,nao,sim,sim
+Ariel,fantasia,sim,nao,sim,sim,nao,nao,nao,sim
+Aladdin,fantasia,sim,nao,sim,sim,sim,nao,sim,sim
+Po,acao,sim,nao,sim,sim,sim,nao,sim,sim
+Shrek,fantasia,sim,nao,sim,sim,sim,nao,sim,sim
+Buzz Lightyear,aventura,sim,nao,sim,sim,nao,nao,sim,nao
+Nemo,aventura,sim,nao,sim,sim,nao,nao,sim,sim
+Marlin,aventura,sim,nao,sim,sim,nao,nao,sim,nao
+Tony Stark,acao,nao,sim,sim,sim,nao,nao,sim,sim
+Peter Parker,acao,nao,sim,sim,sim,nao,nao,sim,sim
+Bruce Wayne,acao,nao,sim,sim,sim,nao,nao,sim,sim
+Optimus Prime,acao,sim,nao,sim,sim,nao,nao,sim,sim
+Rocky Balboa,drama,nao,sim,sim,sim,nao,sim,sim,sim
+James Bond,acao,nao,sim,sim,sim,nao,nao,sim,sim
+Jack Dawson,drama,nao,sim,nao,nao,sim,nao,sim,sim
+Rose DeWitt Bukater,drama,nao,sim,nao,nao,sim,nao,nao,sim
+Marty McFly,aventura,nao,sim,sim,sim,sim,nao,sim,sim
+Doc Brown,aventura,nao,sim,nao,sim,sim,nao,sim,nao
+Ferris Bueller,drama,nao,sim,nao,sim,nao,nao,sim,sim
+Edward Scissorhands,fantasia,nao,sim,nao,nao,sim,nao,sim,sim
+Jack Torrance,thriller,nao,sim,sim,nao,sim,nao,sim,sim
+Hannibal Lecter,thriller,nao,sim,sim,nao,nao,nao,sim,nao
+Michael Corleone,drama,nao,sim,sim,nao,sim,nao,sim,sim
+Vito Corleone,drama,nao,sim,sim,nao,sim,nao,sim,nao
+Travis Bickle,drama,nao,sim,nao,nao,sim,nao,sim,sim
+Rick Deckard,acao,nao,sim,sim,nao,nao,nao,sim,sim
+Ellen Ripley,acao,nao,sim,sim,sim,nao,nao,nao,sim
+Sarah Connor,acao,nao,sim,sim,sim,nao,nao,nao,sim
+Terminator T-800,acao,nao,sim,sim,sim,nao,nao,sim,sim
+John McClane,acao,nao,sim,sim,sim,nao,nao,sim,sim
+John Wick,acao,nao,sim,sim,nao,nao,nao,sim,sim
+Jason Bourne,acao,nao,sim,sim,sim,nao,nao,sim,sim
+Legolas,fantasia,nao,sim,sim,sim,sim,nao,sim,nao
+Gandalf,fantasia,nao,sim,sim,sim,sim,nao,sim,nao
+Aragorn,fantasia,nao,sim,sim,sim,sim,nao,sim,nao
+Jon Snow,fantasia,nao,sim,sim,sim,sim,nao,sim,sim
+Daenerys Targaryen,fantasia,nao,sim,sim,nao,sim,nao,nao,sim
+Yoda,fantasia,nao,sim,sim,sim,nao,nao,nao,nao
+Darth Vader,acao,nao,sim,sim,sim,nao,nao,sim,nao
+Han Solo,aventura,nao,sim,sim,sim,nao,nao,sim,sim
+Princesa Leia,acao,nao,sim,sim,sim,nao,nao,nao,sim
+Obi-Wan Kenobi,fantasia,nao,sim,sim,sim,nao,nao,sim,nao
+Mufasa,aventura,sim,nao,sim,nao,nao,nao,sim,nao
+Hercules,fantasia,sim,nao,sim,sim,sim,nao,sim,sim
+Tarzan,aventura,sim,nao,sim,sim,sim,nao,sim,sim
+Pocahontas,aventura,sim,nao,sim,sim,sim,sim,nao,sim
+Mowgli,aventura,sim,nao,sim,sim,nao,nao,sim,sim
+Belle,fantasia,sim,nao,sim,sim,sim,nao,nao,sim
+Gasparzinho,fantasia,sim,nao,nao,sim,nao,nao,sim,sim
+Wall-E,aventura,sim,nao,sim,sim,nao,nao,nao,sim
+Spider-Man Miles Morales,acao,sim,sim,sim,sim,nao,nao,sim,sim
+Coringa,thriller,nao,sim,nao,nao,nao,nao,sim,sim
